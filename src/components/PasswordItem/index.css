@@ -1,0 +1,60 @@
+.grey {
+  background-color: #94a3b8;
+}
+
+.grey1 {
+  background-color: #b6c3ca;
+}
+
+.lightPurple {
+  background-color: #7683cb;
+}
+
+.orange {
+  background-color: #f59e0b;
+}
+
+.green {
+  background-color: #10b981;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.lightBlue {
+  background-color: #0ea5e9;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  list-style-type: none;
+}
+
+.initial {
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.button1 {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.icon1 {
+  width: 40%;
+}
+
+.paras {
+  color: white;
+  font-size: 13px;
+}
